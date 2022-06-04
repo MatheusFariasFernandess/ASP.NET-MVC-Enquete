@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "elJkbhuCxdsQ2XpVLzO91BSJFofOjELKkBISsufFRrY=",
+  "Hash": "cgeW+Vu9L2sKM4Kt1qdb/V54G3zhEFfxsOzIRT3A7d0=",
   "Source": "Questionario",
   "BasePath": "_content/Questionario",
   "Mode": "Default",
@@ -51,12 +51,12 @@
       "OriginalItemSpec": "C:\\Users\\Matheus\\Documents\\VScode\\C_Sharp\\ASP.NET MVC QUESTIONARIO\\Questionario\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Questionario.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Matheus\\Documents\\VScode\\C_Sharp\\ASP.NET MVC QUESTIONARIO\\Questionario\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Matheus\\Documents\\VScode\\C_Sharp\\ASP.NET MVC QUESTIONARIO\\Questionario\\wwwroot\\css\\estilos.css",
       "SourceId": "Questionario",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Matheus\\Documents\\VScode\\C_Sharp\\ASP.NET MVC QUESTIONARIO\\Questionario\\wwwroot\\",
       "BasePath": "_content/Questionario",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/estilos.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,7 +65,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot\\css\\estilos.css"
     },
     {
       "Identity": "C:\\Users\\Matheus\\Documents\\VScode\\C_Sharp\\ASP.NET MVC QUESTIONARIO\\Questionario\\wwwroot\\favicon.ico",

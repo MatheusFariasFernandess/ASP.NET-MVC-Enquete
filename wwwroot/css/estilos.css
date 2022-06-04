@@ -1,0 +1,28 @@
+.input-validation-error{
+     border:solid 2px red;
+}
+.input-validation-error + label{
+     font-weight: bold;
+     color: red;
+}
+
+ h1{
+      text-align: center;
+ }
+
+
+
+.ErrorMessageClass{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.formClass{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p{
+     text-align: center;
+}
