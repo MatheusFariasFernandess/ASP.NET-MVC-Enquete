@@ -1,0 +1,56 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Questionario
+build_property.RootNamespace = Questionario
+build_property.ProjectDir = c:\Users\Matheus\Documents\VScode\C_Sharp\ASP.NET MVC QUESTIONARIO\Questionario\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = c:\Users\Matheus\Documents\VScode\C_Sharp\ASP.NET MVC QUESTIONARIO\Questionario
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Matheus/Documents/VScode/C_Sharp/ASP.NET MVC QUESTIONARIO/Questionario/Views/Home/AgradecimentosPorResponder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ3JhZGVjaW1lbnRvc1BvclJlc3BvbmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Matheus/Documents/VScode/C_Sharp/ASP.NET MVC QUESTIONARIO/Questionario/Views/Home/ExibirQuestionario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFeGliaXJRdWVzdGlvbmFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Matheus/Documents/VScode/C_Sharp/ASP.NET MVC QUESTIONARIO/Questionario/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Matheus/Documents/VScode/C_Sharp/ASP.NET MVC QUESTIONARIO/Questionario/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Matheus/Documents/VScode/C_Sharp/ASP.NET MVC QUESTIONARIO/Questionario/Views/Home/Responder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXNwb25kZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Matheus/Documents/VScode/C_Sharp/ASP.NET MVC QUESTIONARIO/Questionario/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Matheus/Documents/VScode/C_Sharp/ASP.NET MVC QUESTIONARIO/Questionario/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Matheus/Documents/VScode/C_Sharp/ASP.NET MVC QUESTIONARIO/Questionario/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Matheus/Documents/VScode/C_Sharp/ASP.NET MVC QUESTIONARIO/Questionario/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Matheus/Documents/VScode/C_Sharp/ASP.NET MVC QUESTIONARIO/Questionario/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dfmo27ptqk
